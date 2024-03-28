@@ -1,0 +1,33 @@
+{
+    "menu_items": [
+
+        {
+            "short_name": "B1",
+            "name": "bag",
+            "description": "bag",
+            "price_small": null,
+            "price_large": 19,
+            "small_portion_name": null,
+            "large_portion_name": null,
+            "colors": null,
+            "size": null
+        },
+        {
+            "short_name": "B2",
+            "name": "bag",
+            "description": "bag",
+            "price_small": null,
+            "price_large": 12,
+            "small_portion_name": null,
+            "large_portion_name": null,
+            "colors": null,
+            "size": null
+        }
+    ],
+    "category": {
+        "name":"Bags",
+        "short_name": "bgs",
+        "special_instructions": "All Items in Sport Section Tshirts..."
+
+    }
+}

@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Classic",
+        "section_number": 1,
+        "short_name": "CLS",
+        "special_instructions": "All Item in the Classic Section Suits/Classic Shirts..."
+    },
+    {
+        "name":"T-Shirts",
+        "section_number": 2,
+        "short_name": "tshrts",
+        "special_instructions": "All Items in Sport Section Tshirts..."
+    },
+    {
+        "name":"Pants",
+        "section_number": 4,
+        "short_name": "pnt",
+        "special_instructions":"All Item in the Pants Section..."
+    },
+    {
+        "name":"Shorts",
+        "section_number": 3,
+        "short_name": "srt",
+        "special_instructions":"All Item in the Shorts Section..."
+    },
+    {
+        "name":"Bags",
+        "section_number": 5,
+        "short_name": "bgs",
+        "special_instructions":"All Item in the Pants Section..."
+    },
+    {
+        "name":"Offers",
+        "section_number": null,
+        "short_name": "ofr",
+        "special_instructions":"All Item in the Pijamas Section Pijamas/Joggings..."
+    }
+
+]

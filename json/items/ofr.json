@@ -1,0 +1,27 @@
+{
+    "menu_items": [
+        {
+            "short_name": "O1",
+            "name": "Coming soon",
+            "description": "Coming soon",
+            "price_small": null,
+            "price_large": 9.75,
+            "small_portion_name": null,
+            "large_portion_name": null
+        },
+        {
+            "short_name": "O2",
+            "name": "Coming soon",
+            "description": "Coming soon",
+            "price_small": 9.75,
+            "price_large": 9.75,
+            "small_portion_name": null,
+            "large_portion_name": null
+        }
+    ],
+    "category": {
+        "short_name": "ofr",
+        "name": "Offers",
+        "special_instructions": "offers..."
+    }
+}

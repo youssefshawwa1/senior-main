@@ -1,0 +1,31 @@
+{
+    "menu_items": [
+        {
+            "short_name": "C1",
+            "name": "Wedding Suit",
+            "description": "Wedding Suit Blazer + Vest + pant + Papillon Very Good Quality",
+            "price_small": null,
+            "price_large": 98,
+            "small_portion_name": null,
+            "large_portion_name": null,
+            "colors": "Black",
+            "size": "46/48/50/52/54/56"
+        },
+        {
+            "short_name": "C2",
+            "name": "Basic Suits",
+            "description": "Suit Blazer + Vest + pant Very Good Quality",
+            "price_small": null,
+            "price_large": 69,
+            "small_portion_name": null,
+            "large_portion_name": null,
+            "colors":"Navy/Black/Grey",
+            "size": "46/48/50/52/54/56"
+        }
+    ],
+    "category": {
+        "short_name": "CLS",
+        "name": "Suits",
+        "special_instructions": "All Item in the Classic Section Suits/Classic Shirts..."
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "menu_items": [
+        {
+            "short_name": "S1",
+            "name": "kitan Short",
+            "description": "Kitan Short Perfect Quality",
+            "price_small": null,
+            "price_large": 13,
+            "small_portion_name": null,
+            "large_portion_name": null,
+            "colors": "White/jeans",
+            "size": "30/31/32/33/34/36/38"
+        },
+      
+        {
+            "short_name": "S2",
+            "name": "Short Kitan",
+            "description": "Kitan Short Perfect Quality",
+            "price_small": null,
+            "price_large": 13,
+            "small_portion_name": null,
+            "large_portion_name": null,
+            "colors": "Navy/Grey/Page",
+            "size": "30/31/32/33/34/36/38"
+        },  
+        {
+            "short_name": "S3",
+            "name": "Kitan Short",
+            "description": "Kitan Short Perfect Quality",
+            "price_small": null,
+            "price_large": 14.5,
+            "small_portion_name": null,
+            "large_portion_name": null,
+            "colors": "navy/blue/page",
+            "size": "30/31/32/33/34/36/38/40/42"
+        },
+        {
+            "short_name": "S4",
+            "name": null,
+            "description": null,
+            "price_small": null,
+            "price_large": null,
+            "small_portion_name": null,
+            "large_portion_name": null,
+            "colors": null,
+            "size": null
+        }
+    ],
+    "category": {
+        "name":"Shorts",
+        "short_name": "srt",
+        "description":"All Item in the Shorts Section..."
+    }
+}
