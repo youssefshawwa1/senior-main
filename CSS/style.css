@@ -39,7 +39,7 @@ a {
     padding-bottom: 10px;
 }
 #logo-img {
-    background: url('/Images/Senior.jpg') no-repeat;
+    background: url('/senior-main/Images/Senior.jpg') no-repeat;
     width: 150px;
     height: 150px;
     margin: 10px 15px 10px 0px;
@@ -212,11 +212,11 @@ a {
     
 }
 #Shop {
-    background: url('/Images/categories.jpg') no-repeat;
+    background: url('/senior-main/Images/categories.jpg') no-repeat;
     background-position: center;
 }
 #Offers {
-    background: url('/Images/ofr/ofr.jpg') no-repeat;
+    background: url('/senior-main/Images/ofr/ofr.jpg') no-repeat;
     background-position: center;
 }
 #Shop span, #Offers span, #map span {
@@ -323,7 +323,7 @@ h3.item-title {
 /********** Large devices only **********/
 @media (min-width: 1200px){
     .container .jumbotron {
-        background: url('/Images/main.jpg') no-repeat;
+        background: url('/senior-main/Images/main.jpg') no-repeat;
         height: 675px;
         margin: 5px 5px 5px 0;
     }
@@ -334,7 +334,7 @@ h3.item-title {
       /* Header */
      
       #logo-img {
-        background: url('/Images/Senior100.jpg') no-repeat;
+        background: url('/senior-main/Images/Senior100.jpg') no-repeat;
         width: 100px;
          height: 100px;
       }
@@ -350,7 +350,7 @@ h3.item-title {
       /* End Header */
         /* Home Page */
     .container .jumbotron {
-        background: url('/Images/992.jpg') no-repeat;
+        background: url('/senior-main/Images/992.jpg') no-repeat;
         height: 558px;
         
     }
@@ -384,7 +384,7 @@ h3.item-title {
       /* End Header */
       /* Home Page */
     .container .jumbotron  {
-        background: url('/Images/768.jpg') no-repeat;
+        background: url('/senior-main/Images/768.jpg') no-repeat;
         height: 432px;
           /* End Home Page */
         
