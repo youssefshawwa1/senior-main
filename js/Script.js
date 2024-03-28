@@ -12,14 +12,14 @@ $(function () {
 
   var sn = {};
   
-  var homeHtml = "/Snippets/home.html";
-  var categoriesData = "/json/category.json"
-  var categoriesHtml = "/Snippets/category.html";
-  var categoryTitleHtml = "/Snippets/category-tile.html"
-  var menuItemsUrl = "/json/items/";
-  var menuItemsTitleHtml = "/Snippets/single-category-tile.html";
-  var menuItemHtml = "/Snippets/single-category.html";
-  var aboutHtml = "/Snippets/about.html";
+  var homeHtml = "/senior-main/Snippets/home.html";
+  var categoriesData = "/senior-main/json/category.json"
+  var categoriesHtml = "/senior-main/Snippets/category.html";
+  var categoryTitleHtml = "/senior-main/Snippets/category-tile.html"
+  var menuItemsUrl = "/senior-main/json/items/";
+  var menuItemsTitleHtml = "/senior-main/Snippets/single-category-tile.html";
+  var menuItemHtml = "/senior-main/Snippets/single-category.html";
+  var aboutHtml = "/senior-main/Snippets/about.html";
 
 
  
